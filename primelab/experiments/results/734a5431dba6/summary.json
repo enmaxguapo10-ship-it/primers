@@ -1,0 +1,14 @@
+{
+  "experiment_id": "734a5431dba6",
+  "name": "Quick Survey",
+  "range": "[2, 100,000]",
+  "n_primes": 9591,
+  "computation_time_s": 0.055,
+  "metrics_computed": [
+    "pi_comparison",
+    "gap_statistics",
+    "twin_primes"
+  ],
+  "errors": [],
+  "timestamp": 1777968719.43175
+}

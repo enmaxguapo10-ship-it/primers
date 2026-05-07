@@ -1,0 +1,24 @@
+{
+  "name": "Quick Survey",
+  "low": 2,
+  "high": 100000,
+  "metrics": [
+    "pi_comparison",
+    "gap_statistics",
+    "twin_primes"
+  ],
+  "models": [
+    "x_over_logx",
+    "li_x"
+  ],
+  "description": "Fast overview up to 100,000",
+  "tags": [
+    "quick",
+    "overview"
+  ],
+  "interval_size": 1000,
+  "n_fft_points": 50000,
+  "twin_prime_search": true,
+  "constellations": [],
+  "anomaly_threshold": 3.5
+}

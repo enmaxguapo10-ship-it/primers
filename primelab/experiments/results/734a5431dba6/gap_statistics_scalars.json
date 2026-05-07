@@ -1,0 +1,10 @@
+{
+  "gap_mean": 10.426277372262774,
+  "gap_std": 8.023488576462263,
+  "gap_max": 72,
+  "gap_max_at_prime": 31397,
+  "gap_min": 2,
+  "most_common_gap": 6,
+  "norm_gap_mean": 1.0040330139901483,
+  "norm_gap_std": 0.7559487577076927
+}
